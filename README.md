@@ -1,28 +1,28 @@
-Сборка Minecraft сервера с модами для версии 1.20.1
+Сборка Minecraft сервера с модами для версии 1.20.1 /n
 
-Генерация мира : 
-Terralith
-Terrestria
-Regions Unexplored
-Better End
-Better Nether
+Генерация мира : /n
+Terralith /n
+Terrestria /n
+Regions Unexplored /n
+Better End /n
+Better Nether /n
 
-Переработка генерации ванильных структур :
-YUNGS API
-YUNG's Better Dungeons
-YUNG's Better Nether Fortresses
-YUNG's Better Mineshafts
-YUNG's Better End Island 
-YUNG's Better Ocean Monuments 
-YUNG's Better Strongholds
-YUNG's Better Witch Huts 
-YUNG's Better Jungle Temples
-YUNG's Better Desert Temples
-YUNG's Bridges
-YUNG's Extras
+Переработка генерации ванильных структур : /n
+YUNGS API /n
+YUNG's Better Dungeons /n
+YUNG's Better Nether Fortresses /n
+YUNG's Better Mineshafts /n
+YUNG's Better End Island  /n
+YUNG's Better Ocean Monuments /n
+YUNG's Better Strongholds /n
+YUNG's Better Witch Huts /n
+YUNG's Better Jungle Temples /n
+YUNG's Better Desert Temples /n
+YUNG's Bridges /n
+YUNG's Extras /n
 
-Новые мобы : 
-Naturalist
+Новые мобы :  /n
+Naturalist /n
 
-UI/UX :
-Distant Horizons
+UI/UX : /n
+Distant Horizons /n
