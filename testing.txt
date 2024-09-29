@@ -1,6 +1,4 @@
-Первый этап - Генерация мира
-
-Список модов:
+[ Первый этап - Генерация мира ]
 YUNGS API
 YUNG's Better Dungeons
 YUNG's Better Nether Fortresses
@@ -13,19 +11,22 @@ YUNG's Better Jungle Temples
 YUNG's Better Desert Temples
 YUNG's Bridges
 YUNG's Extras
-
-Naturalist
-
 Better End
 Better Nether
-
-(Будут чередоваться чтобы определить лучший)
-Terralith
-Terrestria
-Regions Unexplored
-
+ReTerraforged
 Distant Horizons
+Deeper and Darker (Client & Server)
 
 
 
-Второй этап - Новые структуры
+[ Второй этап - Новые структуры ]
+Dungeons and Taverns
+Towns and Towers
+Waystones
+Camps. Castles. Carriages.
+Explorify
+
+
+
+[ X Этап - Мобы ]
+Friends & Foes
